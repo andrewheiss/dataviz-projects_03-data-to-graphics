@@ -36,7 +36,7 @@ Three muddy or unclear things:
 
 ## Load and clean data
 
-First we load, restructure, and clean the data.
+First we load, restructure, and clean the data. **You don't need to modify anything in this chunk of code---you only need to run it.**
 
 ```{r}
 #| label: load-clean-data
