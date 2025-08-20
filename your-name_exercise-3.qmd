@@ -191,9 +191,9 @@ You need to show `Species`, `Gender`, and `Film` at the same time, but you only 
 # Do stuff here
 ```
 
-# Extension
+# Task 3: Extension
 
-Copy the code for one of your plots above and paste it into the chunk below. Do some extra things to it, like changing the labels, changing the colors, adding a new geom, plotting a different variable from the dataset, filling by something that you're faceting with (or vice versa), changing the theme, or whatever. This is your chance to play with the plot and make it as fancy as you want.
+Copy the code for one of your plots above and paste it into the chunk below. Do some extra things to it, like changing the labels, changing the colors, adding a new geom, plotting a different variable from the dataset, filling by something that you're faceting with (or vice versa), changing the theme, or whatever. **This is your chance to play around and explore.**
 
 ```{r}
 #| label: extension
