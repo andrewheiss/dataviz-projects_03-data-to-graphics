@@ -13,6 +13,9 @@ format:
         dpi: 300
   typst:
     toc: true
+    include-before-body: 
+      text: |
+        #show heading.where(level: 1): it => { pagebreak(weak: true); it }
   pdf:
     toc: true
   docx:
@@ -216,9 +219,9 @@ ggplot(lotr, aes(x = Species, y = Words, fill = Gender)) +
 
 :::
 
-## Extension
+# Task 3: Extension
 
-Copy the code for one of your plots above and paste it into the chunk below. Do some extra things to it, like changing the labels, changing the colors, adding a new geom, plotting a different variable from the dataset, filling by something that you're faceting with (or vice versa), changing the theme, or whatever. This is your chance to play with the plot and make it as fancy as you want.
+Copy the code for one of your plots above and paste it into the chunk below. Do some extra things to it, like changing the labels, changing the colors, adding a new geom, plotting a different variable from the dataset, filling by something that you're faceting with (or vice versa), changing the theme, or whatever. **This is your chance to play around and explore.**
 
 ::: {.callout-tip title="Answer"}
 
