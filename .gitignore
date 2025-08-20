@@ -4,6 +4,7 @@
 .Ruserdata
 
 *_files/*
+images/*.svg
 *.html
 *.pdf
 *.docx
