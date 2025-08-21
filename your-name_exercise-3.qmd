@@ -43,7 +43,7 @@ library(tidyverse)
 
 ## Data description and cleaning
 
-This data contains counts of words spoken by characters of different species and geners in the *Lort of the Rings* movie trilogy. It originally comes from the *manyeyes* data blog, which no longer exists---Jenny Bryan [has a copy here](https://github.com/jennybc/lotr-tidy/tree/master/data).
+This data contains counts of words spoken by characters of different species and genders in the *Lord of the Rings* movie trilogy. It originally comes from the *manyeyes* data blog, which no longer exists---Jenny Bryan [has a copy here](https://github.com/jennybc/lotr-tidy/tree/master/data).
 
 There are three CSV files in `data/`---one for each film. The code below loads, restructures, and cleans the data. **You don't need to modify anything in this chunk of code---you only need to run it.**
 
